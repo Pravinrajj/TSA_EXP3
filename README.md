@@ -49,9 +49,10 @@ plt.xlabel('Lag')
 plt.ylabel('ACF')
 plt.grid(True)
 plt.show()
+
 ```
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/81557d9f-623e-43a7-966d-904744f743c4)
 
 ### RESULT:
-        Thus we have successfully implemented the auto correlation function in python.
+Thus we have successfully implemented the auto correlation function in python.
